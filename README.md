@@ -1,5 +1,5 @@
 # Pig Game
-A C program of the dice game, Pig.
+A command line C program of the dice game, Pig.
 
 ## How to Play: 
 <ol>
